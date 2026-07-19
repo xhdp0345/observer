@@ -1,0 +1,27 @@
+PROJECT OBSERVER
+Manifest Revision: 01
+
+STATUS:
+Incomplete
+
+KNOWN ASSETS
+
+observer.png
+index.html
+robots.txt
+
+MISSING
+
+record-0
+
+NOTES
+
+The archive was intentionally separated.
+
+It should not be possible to discover "record-0"
+without first understanding why it is missing.
+
+If you found this file through exploration rather than instruction,
+continue asking questions.
+
+The answer is not inside this document.
