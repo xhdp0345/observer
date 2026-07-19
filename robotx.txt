@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /archive/
+Disallow: /forgotten/
+
+# The first answer is almost never the correct one.
